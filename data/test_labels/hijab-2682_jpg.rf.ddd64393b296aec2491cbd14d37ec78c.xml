@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>hijab-2682_jpg.rf.ddd64393b296aec2491cbd14d37ec78c.jpg</filename>
+	<path>hijab-2682_jpg.rf.ddd64393b296aec2491cbd14d37ec78c.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>head</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>137</xmin>
+			<xmax>474</xmax>
+			<ymin>34</ymin>
+			<ymax>291</ymax>
+		</bndbox>
+	</object>
+</annotation>
